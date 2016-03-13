@@ -1,0 +1,1 @@
+kdb+ is a high performance vector database and application platform used on wallstreet. This project contains a collections of algorithms and applications to deal with data mining"
